@@ -1,0 +1,12 @@
+.animate__animated.animate__bounce {
+  --animate-delay: 0s;
+  --animate-duration: 2s;
+}
+#court {
+  padding-left: 1em;
+  margin-top: 1.2em;
+}
+#court #ball {
+  height: 40px;
+  width: 50px;
+}

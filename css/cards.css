@@ -1,0 +1,20 @@
+.card{
+  border-radius: 3px;
+  padding: 1em;
+  transition: all .2s ease-out;
+}
+.card > h1, .card > p, .card > h3 {
+  text-align: left;
+}
+.card > h1{
+  padding-bottom: .5em;
+  border-bottom: 5px solid #76e650;
+  width: 44%;
+}
+.card > img {
+  width: 100%;
+}
+/*  */
+.card:hover{
+  box-shadow: 0 1rem 1.15rem 0.125rem rgb(64 64 64 / 9%);
+}

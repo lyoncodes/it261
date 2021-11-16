@@ -1,0 +1,4 @@
+1) Serverless frontend options
+2) Java stuff
+	- homework
+	- codewars
