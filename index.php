@@ -44,6 +44,9 @@
 				<li>
 					<a href="website/contact.php">Emailable Form (HW6)</a>
 				</li>
+				<li>
+					<a href="website/gallery.php">Gallery (HW7)</a>
+				</li>
 			</ul>
 		</div>
 		<div>
@@ -70,6 +73,12 @@
 				<li>
 					<a href="./weeks/week7">Week 7</a>
 				</li>
+				<li>
+					<a href="./weeks/week8">Week 8</a>
+				</li>
+				<li>
+					<a href="./weeks/week9">Week 9</a>
+				</li>
 			</ul>
 		</div>
 		<main></main>
@@ -80,6 +89,5 @@
 			<li><a href="http://jigsaw.w3.org/css-validator/check?uri=referer">CSS</a></li>
 		</footer>
 	</div>
-	<h1>Test</h1>
 </body>
 </html>

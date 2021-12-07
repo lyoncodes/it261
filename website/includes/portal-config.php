@@ -6,9 +6,9 @@ date_default_timezone_set('America/Los_Angeles');
 $nav = array(
   "index.php" => "Home",
   "about.php" => "About",
-  "people.php" => "People",
+  "gallery.php" => "Dogs",
   "contact.php" => "Contact",
-  "gallery.php" => "Gallery",
+  "gallery-view.php" => "Gallery",
   "daily.php" => "Daily"
 );
 
@@ -16,8 +16,17 @@ switch(THIS_PAGE) {
   case 'index.php':
     $title = 'Portal Page';
   break;
+  case 'about.php':
+    $title = 'About Page';
+  break;
+  case 'gallery.php':
+    $title = 'Dog Gallery';
+  break;
+  case 'gallery-view.php':
+    $title = 'Another Dog Gallery?';
+  break;
   case 'daily.php':
-    $title = 'Daily.php';
+    $title = 'Daily Assignment';
   break;
   case 'contact.php';
     $title = 'Contact Michael';
