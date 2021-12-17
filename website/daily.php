@@ -70,8 +70,10 @@ switch($today) {
   break;
 };
 ?>
-<?php include 'config.php';?>
-<?php include 'includes/header.php';?>
+<?php 
+include 'config.php';
+include 'includes/header.php';
+?>
 <section>
   <div>
     <ul class="embed-list">

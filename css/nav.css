@@ -13,3 +13,20 @@ a:-webkit-any-link{
 .active{
   color: #C0E650!important;
 }
+.welcome-login-msg, .welcome-logout-nav{
+  position: absolute;
+  display: inline-block;
+}
+.welcome-login-msg{
+  top: 12px;
+  left: 12px;
+}
+.welcome-logout-nav{
+  right: 0;
+}
+.welcome-logout-nav > h3, .welcome-login-msg > h3{
+  display: inline;
+  background: -webkit-linear-gradient(#5f50e6, #d349c0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

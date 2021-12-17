@@ -70,12 +70,19 @@ header, section{
 section h1{
   font-size: 2em;
 }
+.ballpark-list{
+  margin: 0;
+  padding: 0;
+}
 .embed-list{
   padding: 0;
 }
 .embed-list > li{
   text-decoration: none;
   display: inline;
+}
+.embed-link{
+  padding: 0!important;
 }
 .img-container > img{
   height: 200px;
