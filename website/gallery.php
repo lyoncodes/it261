@@ -7,8 +7,6 @@ include('includes/header.php');
 
 
 $sql = 'SELECT * FROM Pets';
-
-
 include('includes/iterate-db.php');
 ?>
 <div class="mt-5">

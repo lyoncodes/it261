@@ -47,6 +47,9 @@
 				<li>
 					<a href="website/gallery.php">Gallery (HW7)</a>
 				</li>
+				<li>
+					<a href="./final">Final</a>
+				</li>
 			</ul>
 		</div>
 		<div>

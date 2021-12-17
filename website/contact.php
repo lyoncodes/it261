@@ -86,7 +86,7 @@ if(isset(
   $_POST['msg'],
   $_POST['privacy'],
 )){
-  $to = 'szemeo@mystudentswa.com';
+  $to = 'lyoncodes@gmail.com';
   $subject = 'Another Form Email,' .date('m/d/y');
   $body = '
   The first name is: '.$name.''.PHP_EOL.'
